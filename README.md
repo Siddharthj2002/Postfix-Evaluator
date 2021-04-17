@@ -1,9 +1,8 @@
 # Postfix-Evaluator
 
-● Overview:
+● Project Description:
 
-An evaluator for postfix expressions. The evaluator is stack-based, and capable of evaluating correctly formed but 
-otherwise arbitrary arithmetic expressions on integers. The implementation of the stack is done using linked-lists.
+An evaluator for postfix expressions. The evaluator is stack-based, and capable of evaluating correctly formed but otherwise arbitrary arithmetic expressions on integers. The implementation of the stack is done using linked-lists.
 
   _________________________________
 
@@ -12,8 +11,6 @@ otherwise arbitrary arithmetic expressions on integers. The implementation of th
 
 
   -> Demonstrate understanding of a linked-list-based stack implementation.
-  
-  -> Reinforce the concept of object-oriented dynamic dispatch.
   
   -> Use Interfaces and Abstract classes to separate implementation from usage.
   
@@ -26,8 +23,7 @@ otherwise arbitrary arithmetic expressions on integers. The implementation of th
   
 ● Project Background
 
-  Postfix Expressions : A postfix expression evaluator takes as input an arithmetic expression, written in postfix
-  notation, and computes and returns the result. Typically arithmetic is written in infix notation,
+  Postfix Expressions : A postfix expression evaluator takes as input an arithmetic expression, written in         postfix notation, and computes and returns the result. Typically arithmetic is written in infix notation,
   where the operator, such as “+”, is written between the two operands, such as “1 + 5”. Postfix
   notation* places the operator after the operands. Postfix notation is unambiguous about the
   order of operations when evaluating an expression, unlike infix notation, which requires rules
